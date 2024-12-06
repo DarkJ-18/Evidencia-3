@@ -42,7 +42,7 @@ Sigue estos pasos para poner en marcha el proyecto localmente:
 1. **Clona el repositorio:**  
 
    ```bash
-   git clone https://gitlab.com/DarkJ-18/evidencia-3.git
+   git clone https://gitlab.com/DarkJ-18/evidencia-3.gitgit
 
 2. **Instala las dependencias:**  
 
